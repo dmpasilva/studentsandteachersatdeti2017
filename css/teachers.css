@@ -1,0 +1,58 @@
+a {
+    color: rgb(162,51, 33);
+}
+
+.topnav {
+    background-color: rgb(162,51, 33);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: rgb(162,51, 33);
+}
+
+.section-heading-spacer {
+    border-top: 4px solid rgb(162,51, 33);
+}
+
+.content-section-b {
+    border-top: 5px solid rgb(162,51, 33);
+}
+
+.navbar-default .navbar-nav>.active>a, 
+.navbar-default .navbar-nav>.active>a:focus, 
+.navbar-default .navbar-nav>.active>a:hover {
+    color: rgb(162,51, 33);
+    background-color: #ECD5D1;
+}
+
+footer, body {
+    background-color: rgb(162,51, 33);
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: rgb(162,51, 33);
+}
+
+
+@media only screen and (max-width: 500px) {
+    .content-section-b {
+        background-image: url(../img/bg-teachers/small.jpg);
+    }
+}
+
+@media only screen and (min-width: 612px) {
+    .content-section-b {
+        background-image: url(../img/bg-teachers/medium.jpg);
+    }
+}
+
+@media only screen and (min-width:990px){
+    .content-section-b {
+        background-image: url(../img/bg-teachers/large.jpg);
+    }
+}

@@ -1,0 +1,58 @@
+a {
+    color: rgb(25, 73, 150);
+}
+
+.topnav {
+    background-color: rgb(25, 73, 150);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: rgb(25, 73, 150);
+}
+
+.section-heading-spacer {
+    border-top: 4px solid rgb(25, 73, 150);
+}
+
+.content-section-b {
+    border-top: 5px solid rgb(25, 73, 150);
+}
+
+.navbar-default .navbar-nav>.active>a, 
+.navbar-default .navbar-nav>.active>a:focus, 
+.navbar-default .navbar-nav>.active>a:hover {
+    color: rgb(25, 73, 150);
+    background-color: #CFD9E9;
+}
+
+footer, body {
+    background-color: rgb(25, 73, 150);
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: rgb(25, 73, 150);
+}
+
+
+@media only screen and (max-width: 500px) {
+    .content-section-b {
+        background-image: url(../img/bg-students/small.jpg);
+    }
+}
+
+@media only screen and (min-width: 612px) {
+    .content-section-b {
+        background-image: url(../img/bg-students/medium.jpg);
+    }
+}
+
+@media only screen and (min-width:990px){
+    .content-section-b {
+        background-image: url(../img/bg-students/large.jpg);
+    }
+}

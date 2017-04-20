@@ -1,0 +1,39 @@
+a {
+    color: rgb(162,51, 33);
+}
+
+.topnav {
+    background-color: rgb(162,51, 33);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: rgb(162,51, 33);
+}
+
+.section-heading-spacer {
+    border-top: 4px solid rgb(162,51, 33);
+}
+
+.content-section-a {
+    background-color: #ECD5D1;
+}
+
+.content-section-b {
+    background-image: url(http://studentsandteachersdeti.web.ua.pt/wp-content/uploads/2015/04/1-CIMG3188_2-001.jpg);
+}
+
+.navbar-default .navbar-nav>.active>a, 
+.navbar-default .navbar-nav>.active>a:focus, 
+.navbar-default .navbar-nav>.active>a:hover {
+    color: rgb(162,51, 33);
+    background-color: #ECD5D1;
+}
+
+footer, body {
+    background-color: #ECD5D1;
+}
