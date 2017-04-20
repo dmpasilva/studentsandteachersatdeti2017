@@ -1,6 +1,6 @@
 # Students & Teachers @deti 2017 WordPress Theme
 
-![Alt text](/screenshot.png =600x450 "Students & Teachers @deti 2017")
+![Alt text](./screenshot.png =600x450)
 
 
 Students & Teachers @deti 2017 is a [WordPress](http://wordpress.org/) template created for the 2017 edition of [Students & Teachers@deti](http://studentsandteachersdeti.web.ua.pt/) created by [David Silva](https://davidsilva.pt/).
