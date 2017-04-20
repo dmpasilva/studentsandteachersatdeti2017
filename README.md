@@ -14,7 +14,7 @@ To use this template, you just have to:
 
 ## Compatibility
 
-This theme was tested with WordPress 4.7.3.
+This theme was tested with WordPress 4.7.4.
 
 ## Need additional help?
 
